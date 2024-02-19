@@ -1,0 +1,74 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    font-style: italic;
+    font-size: 20px;   
+}
+body{
+    background:linear-gradient(#2b6772,#52ab98)
+}
+#box{
+    border:1px solid #2b6772;
+    width:1000px;
+    align-items: center;
+    margin:auto;
+    padding:10px;
+    margin-top: 30px;
+    font-style: italic;
+    box-shadow: 10px 10px 15px #ffffff;
+    border-radius: 5px;
+
+}
+#box h2{
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.name{
+    padding:30px;
+    text-align: center;
+}
+.pass{
+    padding:10px;
+    text-align: center;
+}
+.mail{
+    padding:10px;
+    text-align: center;
+}
+.dob{
+    padding:10px;
+    text-align: center;
+}
+.gender{
+    padding:10px;
+    text-align: center;
+}
+.address{
+    padding:10px;
+
+}
+.btn{
+    padding:10px;
+    text-align: center;
+    
+}
+.btn :hover{
+    background-color: #2b6772;
+}
+.str{
+    width:60%;
+}
+.sta{
+    margin:20px;
+}
+.code{
+    margin:20px;
+}
+#box input{
+    border-radius: 5px;
+}
+
+
